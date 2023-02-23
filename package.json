@@ -1,0 +1,14 @@
+{
+  "name": "grocery_shoping",
+  "version": "1.0.0",
+  "description": "grocery shop showcasing drag and drop feature",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "drag-n-drop"
+  ],
+  "author": "Szilvia Csernus",
+  "license": "ISC"
+}
